@@ -1,0 +1,19 @@
+name: Collect
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  collect:
+    name: Collect metrics using central mode of octocov
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v3
+
+      - name: Run octocov
+        uses: k1LoW/octocov-action@v0

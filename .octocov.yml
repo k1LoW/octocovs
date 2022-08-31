@@ -1,0 +1,10 @@
+central:
+  reports:
+    datastores:
+      - artifact://k1LoW/octocov
+      - artifact://k1LoW/runn
+  badges:
+    datastores:
+      - local://badges
+  push:
+    enable: true
