@@ -1,7 +1,17 @@
 central:
   reports:
     datastores:
+      - artifact://k1LoW/expand
+      - artifact://k1LoW/grpcstub
+      - artifact://k1LoW/ghfs
+      - artifact://k1LoW/ghput
+      - artifact://k1LoW/httpstub
+      - artifact://k1LoW/ndiag
       - artifact://k1LoW/octocov
+      - artifact://k1LoW/runn
+      - artifact://k1LoW/smtptest
+      - artifact://k1LoW/stopw
+      - artifact://k1LoW/tbls
   badges:
     datastores:
       - local://badges
