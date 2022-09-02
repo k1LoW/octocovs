@@ -12,6 +12,7 @@ central:
       - artifact://k1LoW/smtptest
       - artifact://k1LoW/stopw
       - artifact://k1LoW/tbls
+      - artifact://k1LoW/tcpdp
   badges:
     datastores:
       - local://badges
