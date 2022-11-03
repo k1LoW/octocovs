@@ -14,6 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      MACKEREL_API_KEY: ${{ secrets.MACKEREL_API_KEY }}
     steps:
       - name: Check out source code
         uses: actions/checkout@v3

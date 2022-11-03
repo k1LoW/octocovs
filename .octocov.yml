@@ -25,3 +25,6 @@ central:
       - local://badges
   push:
     enable: true
+  reReport:
+    datastores:
+      - mackerel://octocov
