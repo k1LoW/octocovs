@@ -17,6 +17,7 @@ central:
       - artifact://k1LoW/sheer-heart-attack
       - artifact://k1LoW/smtptest
       - artifact://k1LoW/smtpurl
+      - artifact://k1LoW/sshc
       - artifact://k1LoW/stopw
       - artifact://k1LoW/tbls
       - artifact://k1LoW/tcpdp
