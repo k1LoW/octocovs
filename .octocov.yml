@@ -15,6 +15,7 @@ central:
       - artifact://k1LoW/repin
       - artifact://k1LoW/runn
       - artifact://k1LoW/sheer-heart-attack
+      - artifact://k1LoW/single
       - artifact://k1LoW/smtptest
       - artifact://k1LoW/smtpurl
       - artifact://k1LoW/sshc
