@@ -7,6 +7,8 @@ central:
       - artifact://k1LoW/filt
       - artifact://k1LoW/ghfs
       - artifact://k1LoW/ghput
+      - artifact://k1LoW/gh-grep
+      - artifact://k1LoW/gh-setup
       - artifact://k1LoW/grpcstub
       - artifact://k1LoW/grpcurlreq
       - artifact://k1LoW/httpstub
