@@ -2,6 +2,7 @@ central:
   reports:
     datastores:
       - artifact://k1LoW/colr
+      - artifact://k1LoW/concgroup
       - artifact://k1LoW/curlreq
       - artifact://k1LoW/expand
       - artifact://k1LoW/filt
