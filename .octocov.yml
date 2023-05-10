@@ -1,6 +1,7 @@
 central:
   reports:
     datastores:
+      - artifact://k1LoW/calver
       - artifact://k1LoW/colr
       - artifact://k1LoW/concgroup
       - artifact://k1LoW/curlreq
