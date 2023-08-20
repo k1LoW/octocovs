@@ -24,6 +24,7 @@ central:
       - artifact://k1LoW/single
       - artifact://k1LoW/smtptest
       - artifact://k1LoW/smtpurl
+      - artifact://k1LoW/sqlc-go-one-or-fail
       - artifact://k1LoW/sshc
       - artifact://k1LoW/stopw
       - artifact://k1LoW/tbls
