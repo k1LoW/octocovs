@@ -19,6 +19,7 @@ central:
       - artifact://k1LoW/octocov
       - artifact://k1LoW/octoslack
       - artifact://k1LoW/repin
+      - artifact://k1LoW/rp
       - artifact://k1LoW/runn
       - artifact://k1LoW/sheer-heart-attack
       - artifact://k1LoW/single
