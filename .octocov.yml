@@ -17,6 +17,7 @@ central:
       - artifact://k1LoW/httpstub
       - artifact://k1LoW/ndiag
       - artifact://k1LoW/octocov
+      - artifact://k1LoW/octocov-go-test-bench
       - artifact://k1LoW/octoslack
       - artifact://k1LoW/repin
       - artifact://k1LoW/rl
