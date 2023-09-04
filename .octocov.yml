@@ -20,6 +20,7 @@ central:
       - artifact://k1LoW/octocov-go-test-bench
       - artifact://k1LoW/octoslack
       - artifact://k1LoW/repin
+      - artifact://k1LoW/rc
       - artifact://k1LoW/rl
       - artifact://k1LoW/rp
       - artifact://k1LoW/runn
