@@ -21,6 +21,7 @@ central:
       - artifact://k1LoW/octoslack
       - artifact://k1LoW/repin
       - artifact://k1LoW/rc
+      - artifact://k1LoW/rcutil
       - artifact://k1LoW/rl
       - artifact://k1LoW/rp
       - artifact://k1LoW/runn
