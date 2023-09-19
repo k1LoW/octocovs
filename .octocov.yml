@@ -1,4 +1,5 @@
 central:
+  timeout: 60sec
   reports:
     datastores:
       - artifact://k1LoW/calver
