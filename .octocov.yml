@@ -21,6 +21,7 @@ central:
       - artifact://k1LoW/octocov
       - artifact://k1LoW/octocov-cachegrind
       - artifact://k1LoW/octocov-go-test-bench
+      - artifact://k1LoW/octocov-runn-coverage
       - artifact://k1LoW/octoslack
       - artifact://k1LoW/repin
       - artifact://k1LoW/rc
