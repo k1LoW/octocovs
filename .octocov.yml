@@ -27,6 +27,7 @@ central:
       - artifact://k1LoW/rc
       - artifact://k1LoW/rcutil
       - artifact://k1LoW/rl
+      - artifact://k1LoW/rlutil
       - artifact://k1LoW/rp
       - artifact://k1LoW/runn
       - artifact://k1LoW/sheer-heart-attack
