@@ -24,11 +24,12 @@ central:
       - artifact://k1LoW/octocov-runn-coverage
       - artifact://k1LoW/octoslack
       - artifact://k1LoW/repin
-      - artifact://k1LoW/rc
-      - artifact://k1LoW/rcutil
-      - artifact://k1LoW/rl
+      - artifact://2manymws/rc
+      - artifact://2manymws/rcutil
+      - artifact://2manymws/rl
       - artifact://k1LoW/rlutil
-      - artifact://k1LoW/rp
+      - artifact://2manymws/rp
+      - artifact://2manymws/mm
       - artifact://k1LoW/runn
       - artifact://k1LoW/sheer-heart-attack
       - artifact://k1LoW/single
