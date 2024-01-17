@@ -35,6 +35,7 @@ central:
       - artifact://k1LoW/tbls
       - artifact://k1LoW/tcpdp
       - artifact://k1LoW/trivy-db-to
+      - artifact://2manymws/keyrwmutex
       - artifact://2manymws/rc
       - artifact://2manymws/rcutil
       - artifact://2manymws/rl
