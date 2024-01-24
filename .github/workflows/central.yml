@@ -21,4 +21,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run octocov
-        uses: k1LoW/octocov-action@main
+        uses: k1LoW/octocov-action@v1
