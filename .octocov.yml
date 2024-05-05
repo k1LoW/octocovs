@@ -2,6 +2,7 @@ timeout: 60sec
 central:
   reports:
     datastores:
+      - artifact://k1LoW/bufresolv
       - artifact://k1LoW/calver
       - artifact://k1LoW/colr
       - artifact://k1LoW/concgroup
@@ -24,6 +25,7 @@ central:
       - artifact://k1LoW/octocov-go-test-bench
       - artifact://k1LoW/octocov-runn-coverage
       - artifact://k1LoW/octoslack
+      - artifact://k1LoW/protoresolv
       - artifact://k1LoW/repin
       - artifact://k1LoW/runn
       - artifact://k1LoW/sheer-heart-attack
