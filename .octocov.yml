@@ -8,6 +8,7 @@ central:
       - artifact://k1LoW/concgroup
       - artifact://k1LoW/curlreq
       - artifact://k1LoW/donegroup
+      - artifact://k1LoW/errors
       - artifact://k1LoW/expand
       - artifact://k1LoW/filt
       - artifact://k1LoW/ghfs
