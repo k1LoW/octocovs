@@ -7,6 +7,7 @@ central:
       - artifact://k1LoW/colr
       - artifact://k1LoW/concgroup
       - artifact://k1LoW/curlreq
+      - artifact://k1LoW/deck
       - artifact://k1LoW/donegroup
       - artifact://k1LoW/errors
       - artifact://k1LoW/expand
