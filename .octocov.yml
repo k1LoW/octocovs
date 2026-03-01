@@ -23,6 +23,7 @@ central:
       - artifact://k1LoW/grpcstub
       - artifact://k1LoW/grpcurlreq
       - artifact://k1LoW/httpstub
+      - artifact://k1LoW/mo
       - artifact://k1LoW/ndiag
       - artifact://k1LoW/octocov
       - artifact://k1LoW/octocov-cachegrind
