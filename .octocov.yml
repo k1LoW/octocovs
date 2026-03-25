@@ -4,6 +4,7 @@ central:
     datastores:
       - artifact://k1LoW/bufresolv
       - artifact://k1LoW/calver
+      - artifact://k1LoW/claude-agent-sdk-go
       - artifact://k1LoW/colr
       - artifact://k1LoW/concgroup
       - artifact://k1LoW/curlreq
