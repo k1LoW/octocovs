@@ -10,6 +10,7 @@ central:
       - artifact://k1LoW/concgroup
       - artifact://k1LoW/curlreq
       - artifact://k1LoW/deck
+      - artifact://k1LoW/detest
       - artifact://k1LoW/donegroup
       - artifact://k1LoW/envdo
       - artifact://k1LoW/errors
